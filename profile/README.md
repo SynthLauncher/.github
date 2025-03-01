@@ -4,7 +4,7 @@ Welcome to **SynthLauncher ORG**—an open-source organization dedicated to deve
 
 ## 👨‍💻 Founder
 
-SynthLauncher ORG was founded and is actively led by **STierProgrammer**. For any inquiries, collaborations, or contributions, feel free to reach out via:
+SynthLauncher ORG was founded and is actively led by **[STierProgrammer](https://github.com/stierprogrammer)**. For any inquiries, collaborations, or contributions, feel free to reach out via:
 
 - 📧 **Email:** [STierProgrammer@gmail.com](mailto:STierProgrammer@gmail.com)  
 - 💬 **Discord:** `stierprogrammer`  
