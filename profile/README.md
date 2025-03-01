@@ -1,4 +1,4 @@
-# 🎵 SynthLauncher ORG
+# SynthLauncher ORG
 
 Welcome to **SynthLauncher ORG**—an open-source organization dedicated to developing free and high-quality **Minecraft Launcher** and various other technologies!
 
