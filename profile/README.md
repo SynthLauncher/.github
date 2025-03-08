@@ -10,6 +10,7 @@ SynthLauncher ORG was founded and is actively led by **[STierProgrammer](https:/
 - 💬 **Discord:** `stierprogrammer`  
 
 ## 💖 Special Thanks: 
+- [@voltageddebunked](https://github.com/voltageddebunked)
 - [@ZbrDeev](https://github.com/ZbrDeev)
 - [@ObserverUnit](https://github.com/ObserverUnit)
 - [@sgBando](https://github.com/sgBando)
