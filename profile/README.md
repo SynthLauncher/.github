@@ -6,13 +6,13 @@ Welcome to **SynthLauncher ORG**—an open-source organization dedicated to deve
 - [@STierProgrammer](https://github.com/stierprogrammer)
 - [@ObserverUnit](https://github.com/ObserverUnit)
 - [@VoltagedDebunked](https://github.com/voltageddebunked)
-- [@ZbrDeev](https://github.com/ZbrDeev)
 
 ## Contact 
 - 📧 **Email:** [STierProgrammer@gmail.com](mailto:STierProgrammer@gmail.com)  
 - 💬 **Discord:** `stierprogrammer`  
 
 ## 💖 Special Thanks: 
+- [@ZbrDeev](https://github.com/ZbrDeev)
 - [@sgBando](https://github.com/sgBando)
 - [@KapTheGuy](https://github.com/KapTheGuy)
 - [@bit122](https://github.com/bit122)
