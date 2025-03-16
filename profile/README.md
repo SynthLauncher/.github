@@ -3,8 +3,8 @@
 Welcome to **SynthLauncher ORG**—an open-source organization dedicated to developing free and high-quality **Minecraft Launcher** and various other technologies!
 
 ## 👨‍💻 Team
-- [@stierprogrammer](https://github.com/stierprogrammer)
-- [@voltageddebunked](https://github.com/voltageddebunked)
+- [@STierProgrammer](https://github.com/stierprogrammer)
+- [@VoltagedDebunked](https://github.com/voltageddebunked)
 - [@ZbrDeev](https://github.com/ZbrDeev)
 
 ## Contact 
