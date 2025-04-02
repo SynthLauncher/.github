@@ -4,9 +4,11 @@ Welcome to **SynthLauncher ORG**—an open-source organization dedicated to deve
 
 ## 👨‍💻 Team
 - [@STierProgrammer](https://github.com/stierprogrammer)
-- [@ObserverUnit](https://github.com/ObserverUnit)
 - [@VoltagedDebunked](https://github.com/voltageddebunked)
 - [@Jagath-Sajjan](https://github.com/jagath-sajjan)
+- [@ALocalDeveloper](https://github.com/ALocalDeveloper)
+- [@Heraclito-Q-Saldanha](https://github.com/Heraclito-Q-Saldanha)
+- [@ObserverUnit](https://github.com/ObserverUnit)
 
 ## Contact 
 - 📧 **Email:** [STierProgrammer@gmail.com](mailto:STierProgrammer@gmail.com)  
