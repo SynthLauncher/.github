@@ -19,5 +19,4 @@ Welcome to **SynthLauncher ORG**—an open-source organization dedicated to deve
 - [@sgBando](https://github.com/sgBando)
 - [@KapTheGuy](https://github.com/KapTheGuy)
 - [@bit122](https://github.com/bit122)
-- [@KuzanovTechnologies](https://github.com/KuzanovTecnologies)
 - And others...
