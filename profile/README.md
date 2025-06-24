@@ -13,10 +13,10 @@ Welcome to **SynthLauncher ORG**—an open-source organization dedicated to deve
 
 ## 💖 Special Thanks: 
 - [@MrMayMan](https://github.com/Mrmayman) (Helped with a lot of stuff, check him out!)
-- [@ZbrDeev](https://github.com/ZbrDeev)
+- [@bit122](https://github.com/bit122)
 - [@sgBando](https://github.com/sgBando)
 - [@KapTheGuy](https://github.com/KapTheGuy)
-- [@bit122](https://github.com/bit122)
+- [@ZbrDeev](https://github.com/ZbrDeev)
 - And others...
 
 ## Contact 
