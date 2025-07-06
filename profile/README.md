@@ -5,6 +5,7 @@ Welcome to **SynthLauncher ORG**—an open-source organization dedicated to deve
 ## 👨‍💻 Contributors
 - [@STierProgrammer](https://github.com/stierprogrammer)
 - [@Safi](https://github.com/safiworks)
+- [@AquaCobalt](https://github.com/aquacobalt)
 - [@Mylamuu](https://github.com/Mylamuu)
 - [@VoltagedDebunked](https://github.com/voltageddebunked)
 - [@Jagath-Sajjan](https://github.com/jagath-sajjan)
