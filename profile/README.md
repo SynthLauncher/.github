@@ -1,6 +1,8 @@
 # SynthLauncher ORG
 
-Welcome to **SynthLauncher ORG**—an open-source organization dedicated to developing free and high-quality **Minecraft Launcher** and various other technologies!
+Welcome to the official GitHub of **SynthLauncher Org.** We are a team dedicated to developing free, open-source and high-quality **Minecraft Launchers** among various other programs and technology!
+
+In this page you will find all our projects. We are fully dedicated to FOSS so feel free to check out our code yourself! You can also contribute at no cost :)
 
 ## 👨‍💻 Contributors
 - [@STierProgrammer](https://github.com/stierprogrammer)
@@ -22,4 +24,5 @@ Welcome to **SynthLauncher ORG**—an open-source organization dedicated to deve
 
 ## Contact 
 - 📧 **Email:** [STierProgrammer@gmail.com](mailto:STierProgrammer@gmail.com)  
-- 💬 **Discord:** `stierprogrammer`  
+- 💬 **Discord:** `stierprogrammer`
+- 🏠 **Community:** [SynthLauncher Discord Server}(https://discord.gg/3VcystaNCf)
