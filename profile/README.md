@@ -25,4 +25,4 @@ In this page you will find all our projects. We are fully dedicated to FOSS so f
 ## Contact 
 - 📧 **Email:** [STierProgrammer@gmail.com](mailto:STierProgrammer@gmail.com)  
 - 💬 **Discord:** `stierprogrammer`
-- 🏠 **Community:** [SynthLauncher Discord Server}(https://discord.gg/3VcystaNCf)
+- 🏠 **Community:** [SynthLauncher Discord Server](https://discord.gg/3VcystaNCf)
