@@ -8,14 +8,14 @@ In this page you will find all our projects. We are fully dedicated to FOSS so f
 - [@STierProgrammer](https://github.com/stierprogrammer)
 - [@Safi](https://github.com/safiworks)
 - [@AquaCobalt](https://github.com/aquacobalt)
-- [@Mylamuu](https://github.com/Mylamuu)
-- [@VoltagedDebunked](https://github.com/voltageddebunked)
 - [@Jagath-Sajjan](https://github.com/jagath-sajjan)
-- [@ALocalDeveloper](https://github.com/ALocalDeveloper)
-- [@Heraclito-Q-Saldanha](https://github.com/Heraclito-Q-Saldanha)
-
+- [@Mylamuu](https://github.com/Mylamuu)
+  
 ## 💖 Special Thanks: 
 - [@MrMayMan](https://github.com/Mrmayman) (Helped with a lot of stuff, check him out!)
+- [@VoltagedDebunked](https://github.com/voltageddebunked)
+- [@ALocalDeveloper](https://github.com/ALocalDeveloper)
+- [@Heraclito-Q-Saldanha](https://github.com/Heraclito-Q-Saldanha)
 - [@bit122](https://github.com/bit122)
 - [@sgBando](https://github.com/sgBando)
 - [@KapTheGuy](https://github.com/KapTheGuy)
