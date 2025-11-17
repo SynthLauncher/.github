@@ -4,7 +4,7 @@ Welcome to the official GitHub of **SynthLauncher Org.** We are a team dedicated
 
 In this page you will find all our projects. We are fully dedicated to FOSS so feel free to check out our code yourself! You can also contribute at no cost :)
 
-We are not affiliated with Mojang AB, Microsoft Corporation, and their affiliates.
+We are not affiliated with Mojang AB, Microsoft Corporation, and/or their affiliates.
 ## 👨‍💻 Contributors
 - [@STierProgrammer](https://github.com/stierprogrammer)
 - [@Safi](https://github.com/safiworks)
